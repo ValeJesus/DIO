@@ -45,5 +45,11 @@ idade = "28"
 
 print(float(preco))
 print(int(idade))
-
+#----------------------------
+#print type utilizado pra ver o tipo da variavel
 print(type(preco))
+
+
+#----------------------------
+
+nome = input("Qual o seu nome? ")
