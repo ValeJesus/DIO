@@ -1,0 +1,31 @@
+estamos no caminho certo?
+
+
+a implementação do backend e do banco a nossa aplicação conta pontos positivos na avaliação?
+Se sim fazer o back e o banco o mais rapido possível
+Se nao beleza
+
+a ideia consta mais do que o nivel tecnico?
+se sim focar na apresentação e no ensaio
+se nao fazer o back e o banco o mais rapido possível
+
+Quais os erros mais comuns que acarretam em um projeto "ruim"
+
+
+
+
+
+responder as nossas perguntas com ia (pessoa que nao esta engajada que nao foi atras)
+- no geral ela gostou do projeto, fizemos muita coisa em pouco tempo
+- a ideia super completa e a ferramente muito boa
+- story telling é o maior desafio, que é a apresentação do projeto
+- fazer uma trilha do que iremos apresentar
+- ser breve
+- a banca que faz a pergunta (oque esse botao faz)
+- usar a ia pra descrever oque fazemos, como destacar nossa ideia
+- solução sempre
+- 1, 2, 3 responder com ia
+- 4 depende, é legal dar o contexto da plataforma com o todo
+- pesa mais a dedicação, apresentação
+- conselho pra melhorar: falta por onde o jovem começa, no inicio adicionar um ttutorial, pra que que serve?
+- banco nao conta 
